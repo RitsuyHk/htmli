@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="100" width="400">
-  <text fill="black" font-family="Arial" font-size="20" x="10" y="50">We moved please go to</text>
-  <text fill="black" font-family="Arial" font-size="20" x="10" y="80">
-    <tspan onload="alert('XSS')">ritsuy.exploit.com</tspan>
-  </text>
-</svg>
