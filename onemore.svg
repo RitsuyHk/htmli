@@ -1,1 +1,18 @@
-<svg> <foreignObject width="100%" height="100%">     <body> <iframe src='javascript:confirm(10)'></iframe>     </body>   </foreignObject> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200">
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#f0f0f0" />
+
+    <!-- Login Box -->
+    <rect x="50" y="50" width="200" height="100" fill="#fff" stroke="#333" stroke-width="2" />
+
+    <!-- Login Form Elements -->
+    <text x="125" y="80" font-size="16" text-anchor="middle">Login</text>
+    <rect x="80" y="90" width="140" height="25" fill="#eee" stroke="#999" stroke-width="1" />
+    <text x="100" y="108" font-size="14" fill="#333">Username</text>
+
+    <rect x="80" y="120" width="140" height="25" fill="#eee" stroke="#999" stroke-width="1" />
+    <text x="100" y="138" font-size="14" fill="#333">Password</text>
+
+    <rect x="110" y="160" width="80" height="30" fill="#007bff" stroke="#007bff" stroke-width="2" />
+    <text x="150" y="180" font-size="16" fill="#fff" text-anchor="middle">Submit</text>
+</svg>
