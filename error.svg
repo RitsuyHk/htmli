@@ -6,5 +6,5 @@
   <!-- Error message text: "We moved, Please go to" -->
   <text x="50%" y="150" font-family="Arial" font-size="20" text-anchor="middle" fill="#333">We moved, Please go to</text>
   <!-- Link to example.com -->
-  <text x="50%" y="200" font-family="Arial" font-size="20" text-anchor="middle" fill="blue">example.com</text>
+  <text x="50%" y="200" font-family="Arial" font-size="20" text-anchor="middle" fill="blue">ritsuy.com</text>
 </svg>
