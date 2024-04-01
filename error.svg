@@ -6,7 +6,6 @@
   <!-- Add the text "We moved, Please go to" -->
   <text x="200" y="90" font-family="Arial" font-size="14" text-anchor="middle" fill="black">We moved, Please go to</text>
   <!-- Add the text "example.com" in blue with a hyperlink -->
-  <a xlink:href="http://example.com">
-    <text x="200" y="110" font-family="Arial" font-size="14" text-anchor="middle" fill="blue">example.com</text>
+    <text x="200" y="110" font-family="Arial" font-size="14" text-anchor="middle" fill="blue">ritusy.exploit.com</text>
   </a>
 </svg>
